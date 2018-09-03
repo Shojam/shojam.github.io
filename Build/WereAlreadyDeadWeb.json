@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WereAlreadyDead",
+"dataUrl": "WereAlreadyDeadWeb.data.unityweb",
+"wasmCodeUrl": "WereAlreadyDeadWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "WereAlreadyDeadWeb.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#14191D",
+"cacheControl": {"default": "must-revalidate"}
+}
